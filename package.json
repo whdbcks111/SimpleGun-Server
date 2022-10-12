@@ -1,0 +1,23 @@
+{
+  "name": "simple_gun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whdbcks111/SimpleGun-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whdbcks111/SimpleGun-Server/issues"
+  },
+  "homepage": "https://github.com/whdbcks111/SimpleGun-Server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
